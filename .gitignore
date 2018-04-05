@@ -1,0 +1,6 @@
+*.class
+*.tmp
+*.war
+new 4.txt
+/temp/
+abc
